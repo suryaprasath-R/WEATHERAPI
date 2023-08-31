@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    text-align: center;
+    padding:10px;
+    margin-top: 15px;
+    border-radius: 15px;
+    background-color: rgb(239, 216, 185);
+}
+.head>p{
+    font-size:20px;
+    font-style: italic;
+    font-weight: bold;
+   
+}
+.main{
+    text-align: center;
+    margin-top: 25px;
+}
+.img{
+    text-align: center;
+}
+.img-fluid{
+    width: 12rem;
+}
+.input{
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 23px;
+    height: 40px;
+    width: 300px;;
+}
+.submit{
+    padding: 10px;
+    margin-left: 10px;
+}
+.submit:hover{
+    transform: scale(1.05); 
+}
+.input:hover{
+    transform: scale(1.05); 
+}
